@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.employee-card-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
